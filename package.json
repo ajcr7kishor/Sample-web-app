@@ -1,0 +1,23 @@
+{
+  "name": "sampleweb",
+  "version": "1.0.0",
+  "description": "Sample wEATHER WEB aPP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajcr7kishor/Sample-web-app.git"
+  },
+  "author": "Ajit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajcr7kishor/Sample-web-app/issues"
+  },
+  "homepage": "https://github.com/ajcr7kishor/Sample-web-app#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
